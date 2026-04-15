@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "909570184755",
+    "firebase_url": "https://latihanuts-b88d6-default-rtdb.firebaseio.com",
+    "project_id": "latihanuts-b88d6",
+    "storage_bucket": "latihanuts-b88d6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909570184755:android:58ea25d16f8042a7db7546",
+        "android_client_info": {
+          "package_name": "com.example.latihanuts_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBodGDEz92CJF6Oxripg3Ei8bgmLFTsgMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
